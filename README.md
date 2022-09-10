@@ -1,5 +1,9 @@
 # CPP CLI BOILERPLATE
 
+## NOTE:
+
+Moved to [cli-creator/public](https://github.com/Raisess/cli-creator/public).
+
 How to use:
 
 ```shell
