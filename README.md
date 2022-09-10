@@ -2,7 +2,7 @@
 
 ## NOTE:
 
-Moved to [cli-creator/public](https://github.com/Raisess/cli-creator/public).
+Moved to [cli-creator/public](https://github.com/Raisess/cli-creator/tree/main/public).
 
 How to use:
 
